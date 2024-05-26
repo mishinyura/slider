@@ -1,0 +1,21 @@
+.sldr_class ul{
+    display: flex;
+    width: 500px;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    border: 1px solid blue;
+}
+
+.sldr_class button{
+    background-color: transparent;
+    border: none;
+}
+
+.sldr_class li{
+    border: 1px solid black;
+}
+
+.sldr_class div {
+
+}
